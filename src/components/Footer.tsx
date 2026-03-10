@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
         <div>
           <div className="font-bold text-2xl tracking-tighter text-white mb-6">
-            Jain Architect<span className="text-orange-500">.</span>
+            Agarwal Architect<span className="text-orange-500">.</span>
           </div>
           <p className="mb-6">
             We build strong, beautiful homes for families. Simple process, great results.
@@ -55,7 +55,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="max-w-7xl mx-auto px-6 mt-16 pt-8 border-t border-zinc-800 text-sm text-center">
-        &copy; {new Date().getFullYear()} Jain Architect Business. All rights reserved.
+        &copy; {new Date().getFullYear()} Agarwal Architect Business. All rights reserved.
       </div>
     </footer>
   );
